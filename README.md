@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oppxdan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on Open-source projects when I am further into my programming journey.
-- 📫 How to reach me: regalado2829@gmail.com
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to create several projects in ReactJS to get even further into my programming journey
+- 📫 How to reach me: aaron.a.regalado@gmail.com
 
 
