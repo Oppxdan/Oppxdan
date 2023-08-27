@@ -4,7 +4,7 @@ I'm an innovative and quick learning web developer. I'm excited about the potent
 
 ### 🌱 What I'm Up To
 
-- Always exploring the world of web development by staying on top of the latest technologies.
+Always exploring the world of web development by staying on top of the latest technologies.
 
 ### 💼 Skills
 
