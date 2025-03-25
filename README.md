@@ -13,4 +13,4 @@ Always exploring the world of web development by staying on top of the latest te
 
 ### 📫 Let's Connect
 
-Feel free to reach out to me via email: aaron.a.regalado@gmail.com
+Feel free to reach out to me via email: 24alters@proton.me
