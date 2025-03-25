@@ -8,7 +8,7 @@ Always exploring the world of web development by staying on top of the latest te
 
 ### 💼 Skills
 
-**Web Development**: HTML, CSS, JavaScript, WordPress, PHP, ReactJS, Symfony, JQuery, Bootstrap
+**Web Development**: HTML, CSS, JavaScript, WordPress, PHP, ReactJS, JQuery, Bootstrap
 **Version Control and Tools:** Git, GitHub, WSL
 
 ### 📫 Let's Connect
